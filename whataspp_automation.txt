@@ -2,7 +2,7 @@
 import pywhatkit
 
 try:
-	list=["*********","*********","*********"] /#phone numbers to send message
+	list=["+919353780540","+919380225637","+917349388061"]
 	j=33
 
 	for i in list:

@@ -2,7 +2,7 @@
 import pywhatkit
 
 try:
-    pywhatkit.sendwhatmsg("+918088217268", "Happy birthday Bhanu...hope all good for you, my lucky girl", 00, 00)
+    pywhatkit.sendwhatmsg("*********", "Happy birthday...hope all good for you", 00, 00)#phone number and message
     print("Successfully Sent!")
 except:
    
